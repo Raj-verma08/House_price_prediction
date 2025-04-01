@@ -44,11 +44,6 @@ python house_price_prediction.py
 - **Mean Squared Error (MSE)**: 0.0172
 - **R-squared Score (R²)**: 0.5464
 
-## Visualization
-The scatter plot below represents the actual vs predicted prices:
-
-![Actual vs Predicted Prices](plot.png)  
-
 ## Future Improvements
 - Feature engineering to include additional relevant variables.
 - Hyperparameter tuning for better model accuracy.
